@@ -1,0 +1,32 @@
+.col-lg-4
+{
+  background-color:aliceblue;
+  height: 100vh;
+  color: ghostwhite;
+}
+.col-lg-8
+{
+  background-color:black;
+  color: aliceblue;
+  height: 100vh;
+}
+.titleDiv
+{
+  display: flex;
+  justify-content: center;
+}
+.createContent
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #212121;
+ 
+  flex-direction: column;
+  
+}
+.card-body
+{
+  color: black;
+}
