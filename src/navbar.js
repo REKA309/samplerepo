@@ -8,7 +8,7 @@ export default function Navbar()
             <Link to={"/"}>Home</Link>
             </li>
             <li>
-                <Link to={"/create"}>Create</Link>
+                <Link to={"/create"}>Create Form</Link>
             </li>
             <li>
                 <Link to={"/read"}>Read</Link>
